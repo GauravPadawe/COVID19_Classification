@@ -1,6 +1,7 @@
 # COVID19_Classification
 Classifying COVID based on Images of X-Ray Provided
 
+### Dataset URL : https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets
 
 ### COVID-19 Xray Dataset (Train & Test Sets)
 
